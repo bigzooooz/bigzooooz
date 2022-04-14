@@ -13,7 +13,7 @@
   <a href="https://www.twitter.com/b4zb0z">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
-  <a href="https://www.twitter.com/b4zb0z">
+  <a href="https://abdulaziz-d.com/">
     <img src="https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge" alt="Twitter Badge"/>
   </a>  
 </div>
