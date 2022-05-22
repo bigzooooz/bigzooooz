@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/b4zb0z.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/b4zb0z"><img src="https://tryhackme-badges.s3.amazonaws.com/b4zb0z.png" alt="TryHackMe"></a>
 </div>
   
 <br />
