@@ -27,7 +27,9 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’ve been working as a web developer for over a decade.
+- :telescope: Web developer for over a decade.
+
+- :bug: Interested in bug hunting & cyber security
 
 - :seedling: Exploring new technologies and ideas.
 ---
