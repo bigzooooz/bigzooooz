@@ -12,13 +12,17 @@
   </a>
   <a href="https://www.twitter.com/b4zb0z">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>  
+  </a> 
+  <a href="https://www.openbugbounty.org/researchers/b4zb0z/">
+    <img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OBB Badge"/>
+  </a> 
+  <a href="https://hackerone.com/b4zb0z">
+    <img src="https://img.shields.io/badge/HackerOne-blue?style=for-the-badge&logo=hackerone&logoColor=white" alt="H1 Badge"/>
+  </a> 
   <a href="https://abdulaziz-d.com/">
     <img src="https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge" alt="Personal Badge"/>
   </a>  
-  <a href="https://www.openbugbounty.org/researchers/b4zb0z/">
-    <img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge" alt="OBB Badge"/>
-  </a>  
+ 
 </div>
 
 ---
