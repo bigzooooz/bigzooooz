@@ -26,6 +26,11 @@
 
 ---
 
+### 🥇 Hall of Fames:
+ - [University of Texas - 2023](https://security.utexas.edu/hall-of-fame)
+
+---
+
 ### :man_technologist: About Me :
 - :telescope: Web developer for over a decade.
 
