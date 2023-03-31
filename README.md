@@ -57,13 +57,16 @@
 </div>
 
 ---
-
+<!--
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigzooooz&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=bigzooooz&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+-->
+
 
 ### :writing_hand: Blog Posts :
 <!-- HASHNODE_BLOG:START -->
