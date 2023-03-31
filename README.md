@@ -67,4 +67,5 @@
 
 ### :writing_hand: Blog Posts :
 <!-- HASHNODE_BLOG:START -->
+- [Multiple Stored XSS](https://b4zb0z.hashnode.dev/multiple-stored-xss-clfv5b7gu000909k1b4hp2e3a)
 <!-- HASHNODE_BLOG:END -->
