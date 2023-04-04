@@ -32,11 +32,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Web developer for over a decade.
+- 🕸️ Web developer for over a decade.
 
 - :bug: Interested in bug hunting & cyber security
 
-- :seedling: Exploring new technologies and ideas.
+- 💡 Exploring new technologies and ideas.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
