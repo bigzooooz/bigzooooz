@@ -6,12 +6,6 @@
 <br />
 
 <div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/bigzooooz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.twitter.com/b4zb0z">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> 
   <a href="https://www.openbugbounty.org/researchers/b4zb0z/">
     <img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OBB Badge"/>
   </a> 
