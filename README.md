@@ -26,11 +26,11 @@
 ---
 
 ### :man_technologist: About Me :
-- 🕸️ Web developer for over a decade.
-
-- :bug: Interested in bug hunting & cyber security
-
-- 💡 Exploring new technologies and ideas.
+- 🌐 Skilled web developer with a decade of experience.
+- :bug: Passionate about bug hunting and cybersecurity.
+- 💡 Constantly exploring and experimenting with new technologies.
+- 📚 Enthusiastic about learning and staying updated with industry trends.
+- 🔒 Committed to ensuring the security and privacy of applications and data.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
