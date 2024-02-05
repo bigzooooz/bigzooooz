@@ -35,18 +35,18 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-plain-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
 
