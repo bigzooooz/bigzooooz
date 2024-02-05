@@ -35,6 +35,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
