@@ -2,10 +2,16 @@
   <a href="https://tryhackme.com/p/b4zb0z"><img src="https://tryhackme-badges.s3.amazonaws.com/b4zb0z.png" alt="TryHackMe"></a>
 </div>
   
-<br />
+<br />  
 <br />
 
 <div id="badges"  align="center">
+    <a class="ine-badge" target="_blank" href="https://pdf.credential.net/kiccwzdo_1707738328015.pdf"><img src="img/eJPT.png"></a>
+    <a class="ine-badge" target="_blank" href="https://pdf.credential.net/rtnxv9za_1707739866151.pdf"><img src="img/ICCA-badge.png"></a>
+    <a class="ine-badge" target="_blank" href="https://abdulaziz-d.com/img/eCertificate.pdf"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png"></a>
+  <br />
+  <br />
+
   <a href="https://www.openbugbounty.org/researchers/b4zb0z/">
     <img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OBB Badge"/>
   </a> 
