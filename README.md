@@ -8,7 +8,7 @@
 <div id="badges"  align="center">
     <a style="ine-badge" target="_blank" href="https://pdf.credential.net/kiccwzdo_1707738328015.pdf"><img width="100px" src="https://abdulaziz-d.com/img/eJPT.png"></a>
     <a class="ine-badge" target="_blank" href="https://pdf.credential.net/rtnxv9za_1707739866151.pdf"><img width="100px" src="https://abdulaziz-d.com/img/ICCA-badge.png"></a>
-    <a class="ine-badge" target="_blank" href="https://abdulaziz-d.com/img/eCertificate.pdf"><img width="100px" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png"></a>
+    <a class="ine-badge" target="_blank" href="https://abdulaziz-d.com/img/eCertificate.pdf"><img width="200px" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png"></a>
   <br />
   <br />
 
