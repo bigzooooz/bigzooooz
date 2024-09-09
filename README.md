@@ -1,3 +1,6 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=bigzooooz)
+<a href="https://ko-fi.com/b4zb0z"><img src="https://shields.io/badge/KoFi-Buy_Me_a_coffee-blue?logo=ko-fi&style=for-the-badgeKofi" /></a> 
+
 <div align="center">
   <a href="https://tryhackme.com/p/b4zb0z"><img src="https://tryhackme-badges.s3.amazonaws.com/b4zb0z.png" alt="TryHackMe"></a>
 </div>
@@ -10,22 +13,18 @@
   <br />
   <br />
 
-  <a href="https://www.openbugbounty.org/researchers/b4zb0z/">
-    <img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OBB Badge"/>
-  </a> 
-  <a href="https://hackerone.com/b4zb0z">
-    <img src="https://img.shields.io/badge/HackerOne-blue?style=for-the-badge&logo=hackerone&logoColor=white" alt="H1 Badge"/>
-  </a> 
-  <a href="https://abdulaziz-d.com/">
-    <img src="https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge" alt="Personal Badge"/>
-  </a>  
+  <a href="https://www.openbugbounty.org/researchers/b4zb0z/"><img src="https://img.shields.io/badge/OpenBugBounty-blue?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OBB Badge"/></a> 
+  <a href="https://hackerone.com/b4zb0z"><img src="https://img.shields.io/badge/HackerOne-blue?style=for-the-badge&logo=hackerone&logoColor=white" alt="H1 Badge"/></a>
+   <a href="https://abdulaziz-d.com"><img src="https://img.shields.io/website?label=Personal Website&style=for-the-badge&url=https://abdulaziz-d.com/&color=blue" alt="Personal Badge"/></a> 
+  
+
  
 </div>
 
 ---
 
 ### 🥇 Hall of Fames:
- - [University of Texas - 2023](https://security.utexas.edu/hall-of-fame)
+ - [University of Texas - 2023](https://security.utexas.edu/hall-of-fame#2023)
 
 ---
 
@@ -38,73 +37,143 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <h6>Backend</h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="jquery" **alt="jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="moodle" **alt="moodle" width="40" height="40"/>&nbsp;
-  
-  
-  <h6>Frontend</h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="40" height="40"/>&nbsp;
-  
-  
-  <h6>Database</h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb"  alt="mariadb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase"  alt="firebase" width="40" height="40"/>&nbsp;
-  
-  
-  <h6>Webservers</h6>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>&nbsp;
-  
-  <h6>Cloud</h6>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" **alt="azure" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" **alt="googlecloud" width="40" height="40"/>
-  
-  <h6>Operating Systems</h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" **alt="windows" width="40" height="40"/>&nbsp;
-  
-  
-  <h6>Tools</h6>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/FFFFFF/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" title="github" **alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" **alt="bitbucket" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" **alt="gitlab" width="40" height="40"/>
-
-  
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40"/>
+      <br>Livewire
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" alt="Moodle" width="40" height="40"/>
+      <br>Moodle
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+      <br>MariaDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
+      <br>Apache
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="40" height="40"/>
+      <br>Oracle Cloud
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/FFFFFF/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" alt="GitHub" width="40" height="40"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+      <br>Bitbucket
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+      <br>GitLab
+    </td>
+  </tr>
+</table>
 
 ---
-<!--
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigzooooz&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=bigzooooz&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
--->
 
 
 ### :writing_hand: Blog Posts :
-<!-- HASHNODE_BLOG:START -->
+
 - [Multiple Stored XSS](https://b4zb0z.hashnode.dev/multiple-stored-xss-clfv5b7gu000909k1b4hp2e3a)
-<!-- HASHNODE_BLOG:END -->
+
