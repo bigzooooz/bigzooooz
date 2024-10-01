@@ -173,7 +173,11 @@
 ---
 
 
-### :writing_hand: Blog Posts :
+### :shopping_cart: My Latest Products
 
-- [Multiple Stored XSS](https://b4zb0z.hashnode.dev/multiple-stored-xss-clfv5b7gu000909k1b4hp2e3a)
+- [Articulate AI – Your Ultimate Content Creator and Designer](https://ko-fi.com/s/7645a2684d)
+  - Articulate AI is a powerful Windows-based, single-user application that leverages AI to enhance your creative process.
+  - Runs on: Windows
+
+
 
