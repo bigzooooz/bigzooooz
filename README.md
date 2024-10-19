@@ -36,13 +36,13 @@
 - 🔒 Committed to ensuring the security and privacy of applications and data.
 ---
 
-### :shopping_cart: My Latest Products
+<!-- ### :shopping_cart: My Latest Products
 
 - [Articulate AI – Your Ultimate Content Creator and Designer](https://ko-fi.com/s/7645a2684d)
   - Articulate AI is a powerful Windows-based, single-user application that leverages AI to enhance your creative process.
   - Runs on: Windows
 
----
+--- -->
 ### :hammer_and_wrench: Languages and Tools :
 <table>
   <tr>
