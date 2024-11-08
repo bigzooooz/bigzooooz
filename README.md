@@ -1,11 +1,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=bigzooooz)
 <a href="https://ko-fi.com/b4zb0z"><img src="https://shields.io/badge/KoFi-Buy_Me_a_coffee-blue?logo=ko-fi&style=for-the-badgeKofi" /></a> 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://tryhackme.com/p/b4zb0z"><img src="https://tryhackme-badges.s3.amazonaws.com/b4zb0z.png" alt="TryHackMe"></a>
-</div>
-  
-<br />  
+</div> -->
 
 <div id="badges"  align="center">
     <a style="ine-badge" target="_blank" href="https://pdf.credential.net/kiccwzdo_1707738328015.pdf"><img width="70px" src="https://abdulaziz-d.com/img/eJPT.png"></a>
