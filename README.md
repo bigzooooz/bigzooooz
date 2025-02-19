@@ -1,4 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=bigzooooz)
+<a href="https://paypal.me/b4zb0z"><img src="https://shields.io/badge/PayPal-Support_on_Paypal-blue?logo=paypal&style=for-the-badgePaypal" /></a> 
 <a href="https://ko-fi.com/b4zb0z"><img src="https://shields.io/badge/KoFi-Buy_Me_a_coffee-blue?logo=ko-fi&style=for-the-badgeKofi" /></a> 
 
 <!-- <div align="center">
